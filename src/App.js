@@ -19,6 +19,7 @@ function App() {
           Hamdolillah
         </a>
       </header>
+      <p>Bismillah arahman arrahim</p>
     </div>
   );
 }
